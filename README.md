@@ -73,4 +73,4 @@ Siempre abierto a colaborar en proyectos de hardware + software, backend, o cual
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yorkidev&show_icons=true&theme=dark&hide_border=true&bg_color=020617&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8)
+
