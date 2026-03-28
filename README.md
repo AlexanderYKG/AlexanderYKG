@@ -1,7 +1,7 @@
 # Yorki — yorkidev
 
 **Estudiante de Ingeniería en Informática & Técnico en Electrónica**  
-📍 Argentina &nbsp;|&nbsp; 🌐 [Portfolio](https://alexyorkidev-gilt.vercel.app) &nbsp;|&nbsp; 👤 [LinkedIn]([https://linkedin.com/in/yorkidev](https://www.linkedin.com/in/alexanderyk?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)) &nbsp;|&nbsp; ✉️ yorki.alex.et19de1@email.com
+📍 Argentina &nbsp;|&nbsp; 🌐 [Portfolio](https://alexyorkidev-gilt.vercel.app) &nbsp;|&nbsp; 👤 [LinkedIn](https://www.linkedin.com/in/alexanderykutm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) &nbsp;|&nbsp; ✉️ yorki.alex.et19de1@email.com
 
 ---
 
